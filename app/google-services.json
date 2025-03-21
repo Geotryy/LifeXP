@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154121769739",
+    "project_id": "lifexp-geoevi",
+    "storage_bucket": "lifexp-geoevi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154121769739:android:697663085a82792298080e",
+        "android_client_info": {
+          "package_name": "br.com.geotry.lifexp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLtEl8dYskTgAfuWPDUxX74ni1QaEGOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
